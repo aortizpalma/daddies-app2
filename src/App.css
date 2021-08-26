@@ -1,6 +1,10 @@
 body {
+<<<<<<< HEAD
+  background-color: orangered;
+=======
   background-color: black;
   color: white;
+>>>>>>> 7e75ecf356504eb83fd73909b0b9cf3345f486e1
 }
 .App {
   text-align: center;
